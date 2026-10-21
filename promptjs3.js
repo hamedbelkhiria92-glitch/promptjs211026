@@ -11,3 +11,4 @@ let z = t.reduce((a, b) => a + b, 0);
 console.log(z)
 console.log(n==z?"parfait":"non parfait")
 console.log(t)
+console.log("works")
