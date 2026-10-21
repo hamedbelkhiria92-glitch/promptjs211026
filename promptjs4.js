@@ -4,7 +4,7 @@ l=n.toString()
 l1=l.length
 let j=0
 let k=0
-while(j<l1){
+for(;j<l1;){
     k+=Math.pow(l[j],l1)
     j+=1
 }
