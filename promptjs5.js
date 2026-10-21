@@ -13,7 +13,7 @@ arr1.forEach(h1=>{
             if(indice!=indice1){
                 faux=0
                 indicecouple.forEach((v)=>{
-                    if(v[0]==indice1 && v[1]==indice1){
+                    if(v[0]==indice1 && v[1]==indice){
                         faux=1
                     }
                 })
